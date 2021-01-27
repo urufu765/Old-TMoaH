@@ -82,3 +82,9 @@
 0.13: Completely redid how text is loaded and printed, and changed some visuals to distinguish Firay
 
 0.13.1: Fixed new line error and extended NUMP to NUMPAD
+
+0.13.2: Made maps more distinguishable
+
+## In Development(Will never continue)
+
+0.14: Save function
